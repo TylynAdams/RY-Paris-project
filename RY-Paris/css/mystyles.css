@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+.main-body {
+  max-width: 900px;
+  margin: 0 auto;
+}
+header {
+  background-color: orange;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.logo {
+  margin-left: 5%;
+
+}
+.menu-bar {
+  margin-right: 5%;
+
+}
+.Start {
+  background-image: url("images/hero-image.jpg");
+  padding-top: 5%;
+
+}
